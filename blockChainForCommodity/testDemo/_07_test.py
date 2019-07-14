@@ -1,0 +1,3 @@
+from blockChainInformation_IO.updateLastBlockHashValue import updateLastBlockValue
+
+updateLastBlockValue('2222')
